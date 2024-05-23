@@ -1,0 +1,5 @@
+---
+tag: fundamental
+up:
+  - "[[Huten]]"
+---

@@ -1,0 +1,5 @@
+---
+tag: 
+  - avanzado
+  - teoría
+---

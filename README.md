@@ -11,7 +11,7 @@ Las únicas reglas de momento son:
   mismo entre paréntesis su significado equivalente en castellano, aunque se recomienda hacerlo una
   sola vez y nunca en títulos.
 
-- Nombres de ficheros con barra baja _ en lugar de espacios para evitar problemas.
+- Evitar a toda costa copiar y pegar de internet. Solo texto original nuestro.
 
 
 
@@ -50,3 +50,63 @@ En cualquier caso, para todas las técnicas se usará un sistema de taggin para 
       idea de lanzar unaf rustrada en el preciso instante que el oponente transiciona a guardia del
       día.
 
+## TO DO
+- [ ] https://fechtwaffen.ch/grundlagen-der-deutschen-fechtschule/ viene explicadas muchas tecnicas básicas con contexto histórico y **explicación de porque cada técnica se llama como se llama**.
+- [ ] [[Hauptstucke]] https://wiktenauer.com/wiki/Category:Hauptstucke **poner la etiquieta apropiada a todos los hauptsucke
+	- [x] [[Meisterhaue]]
+	- [x] [[Grundhuten]]
+	- [ ] 
+- [ ] Conceptos avanzados? -> Ver en apuntos de antonio la seccion de Tecnicas.
+- [ ] Ejercicios basicos
+	- [ ] Muralla de cuchilladas.
+	- [ ] Murallas guardia
+		- [ ] Normal.
+		- [ ] Maestra.
+		- [ ] Maestra variante.
+- [ ] Concepto de guardia: postura
+- [ ] Cuchilladas
+- [ ] Compases
+- [ ] Guardia cambiada/cruzada
+- [ ] Guardias
+	- [ ] Guardias principales: que son y crear listado de cuales son, que a su vez serán un
+	  link a su propia página.
+		- [ ] Von tag
+		- [ ] Ochs
+		- [ ] Pflug
+		- [ ] Alber
+	- [ ] Otras guardias, decir que algunas son de paso y explicar que es eso.
+		- [ ] Puerta de hierro
+		- [ ] Unicornio
+		- [ ] Punta larga
+		- [ ] Punta colgante
+		- [ ] Barrera
+		- [ ] Ira
+		- [ ] Lateral
+		- [ ] Llave
+		- [ ] Wechsel (es una guardia en si?)
+		- [ ] Corona
+- [ ] Compases: explicar.
+	- [ ] Desplazado.
+	- [ ] Medio.
+	- [ ] Simple.
+	- [ ] Armas diagonal.
+	- [ ] Armas.
+	- [ ] Cruzado.
+	- [ ] OJO, en algunos hay direccion quye puede afectar, ver apuntes de antonio respecto al
+	  compas de arma digaonal y al compas de armas.
+- [ ] Cuchilladas
+	- [ ] Cuchilladas maestras: que son y crear listado de cuales son, que a su vez serán un
+	  link a su propia página. Traducir los nombres de aqui, estoy escribiendo de memoria
+	- [ ] Normales (media, ascendente, descendente), y ventanda de Meier.
+- [ ] Espada
+	- [ ] Tipo de espada: 1 mano - bastarda - 2 manos
+    - [ ] Agarre: puño y cruz (hay mas?)
+    - [ ] Partes de la espada, incluido filo verdadero y filo falso.
+    - [ ] 3 hirientes que puede causar la espada.
+    - [ ] Concepto de la palanca en la esgrima
+- [ ] Historia
+    - [ ] Origenes de la esgrima historica.
+    - [ ] Variantes: alemana, italiana, etc.
+    - [ ] Manuscritos y autores mas importantes, tal vez subseccion por autor.
+    - [ ] Evolución de la esgrima historica.
+    - [ ] Contexto actual.

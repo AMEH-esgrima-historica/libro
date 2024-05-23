@@ -1,0 +1,6 @@
+---
+tags:
+  - fundamental
+up:
+  - "[[Haue]]"
+---

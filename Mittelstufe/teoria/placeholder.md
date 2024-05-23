@@ -1,0 +1,5 @@
+---
+tag: 
+  - medio
+  - teoría
+---

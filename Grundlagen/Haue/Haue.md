@@ -1,0 +1,4 @@
+---
+tag: fundamental
+up: "[[Grundlagen]]"
+---

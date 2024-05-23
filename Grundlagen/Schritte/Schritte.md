@@ -1,0 +1,6 @@
+---
+tag: elemental
+up:
+  - "[[Grundlagen]]"
+---
+

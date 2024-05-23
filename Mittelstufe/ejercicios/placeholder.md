@@ -1,0 +1,6 @@
+---
+tag: 
+  - medio
+  - ejercicio
+---
+
